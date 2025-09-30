@@ -24,9 +24,9 @@ Late paper policy is as follows: An extension on a paper will require prior appr
 
 - All essays should be grammatically clean and free from errors in spelling and punctuation (grammatical, punctuation, and spelling mistakes may result in a lowering of your grade).
 - References -
-    - [Citation Guidelines](http://owl.english.purdue.edu/owl/resource/747/01/)   
+    - {{% resource_link "cf1be8bc-e195-4372-9b03-c1bfbccc9a84" "Citation Guidelines" %}}   
         MLA (Modern Language Association) style is most commonly used to write papers and cite sources within the liberal arts and humanities. This resource, updated to reflect the MLA Handbook for Writers of Research Papers (7th ed.) and the MLA Style Manual and Guide to Scholarly Publishing (3rd ed.) offers examples for the general format of MLA research papers, in-text citations, endnotes/footnotes, and the Works Cited page.
-    - [Annotated Bibliography](http://owl.english.purdue.edu/owl/resource/614/01/)   
+    - {{% resource_link "f4c585e8-59b7-473e-8a17-f21360317ab4" "Annotated Bibliography" %}}   
         This link provides information about annotated bibliographies.
 - I would prefer that you did *not* include a separate title page: instead, put your name and other information at the top right of the first page, drop down a line, center your title, and drop another line between that and your first paragraph.
 - Double-space everything (except indented longer quotations).
