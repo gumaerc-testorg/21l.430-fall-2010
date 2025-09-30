@@ -82,7 +82,7 @@ Participation in class discussion overall (including attendance and reading quiz
 MIT Statement on Plagiarism
 ---------------------------
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/) and the [MIT Web site on Plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available at the {{% resource_link "317c3515-0551-4a29-89cb-b03ce62d418b" "Writing and Communication Center" %}} and the {{% resource_link "c5c34c25-2348-4c59-8120-0103893e74a3" "MIT Web site on Plagiarism" %}}.
 
 Calendar
 --------
@@ -142,7 +142,7 @@ Rosenberg, Yudl. _The Golem and the Wondrous Deeds of the Maharal of Prague_. Ne
 
 Rosenberg, Yudl. _The Golem and the Wondrous Deeds of the Maharal of Prague_. New Haven, CT: Yale University Press, 2008, pp. 130-142, and 182-186. ISBN: 9780300143201.
 
-Boese, Carl and Paul Wegener. [_The Golem_](http://www.imdb.com/title/tt0011237/). (1920).
+Boese, Carl and Paul Wegener. {{% resource_link "30974464-11e4-4a4e-89d7-11b444cdff74" "_The Golem_" %}}. (1920).
 
 
 {{< tdclose >}}
@@ -374,7 +374,7 @@ Clowes, Daniel. _Ghost World_. Seattle, WA: Fantagraphics, 2001, pp. 38-80. ISBN
 18
 {{< tdclose >}}
 {{< tdopen >}}
-Zwigoff, Terry. [_Ghost World_](http://www.imdb.com/title/tt0162346/). (2001).
+Zwigoff, Terry. {{% resource_link "c46c7a75-2335-43e0-bed3-10c4f7ac665d" "_Ghost World_" %}}. (2001).
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -434,7 +434,7 @@ Satrapi, Marjane. _The Complete Persepolis_. New York, NY: Pantheon Books, 2007,
 23
 {{< tdclose >}}
 {{< tdopen >}}
-Paronnaud, Vincent and Marjane Satrapi. [_Persepolis_](http://www.imdb.com/title/tt0808417/). (2007).
+Paronnaud, Vincent and Marjane Satrapi. {{% resource_link "0d26efe8-10dc-48c7-87e1-59b027bc8618" "_Persepolis_" %}}. (2007).
 {{< tdclose >}}
 {{< tdopen >}}
  
